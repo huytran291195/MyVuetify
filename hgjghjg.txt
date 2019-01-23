@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 gdfgdfdgd
 =======
@@ -14,3 +15,12 @@ fdsdsfdsfdsffds
 fdgdgdfgdkfdfsgfd
 sfd
 sfdsffdsfdsfdsfsdfdsfs
+=======
+fdgdgdfgdkfdfsg
+gfdklfgdf;lgd
+fgd;lgdf
+gd'
+gdfg';dfg
+dfg';dfgd
+fgdf
+>>>>>>> 530634ab3aabbf93d0fa4674287ee431936c04e0
