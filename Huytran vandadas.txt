@@ -1,6 +1,9 @@
 Ðay là Huy trâbf
 Huy nãm nay 24 tuôi
+<<<<<<< HEAD
 djkhasdkasdnasdhkjadhjakdnkjasd
 adasda
+=======
+>>>>>>> t2
 Nam thân 24
 HUY rat dep trai
